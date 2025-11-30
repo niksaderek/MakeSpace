@@ -22,7 +22,9 @@ MakeSpace helps you reclaim valuable storage space by safely removing temporary 
 5. **Review the results** - Green items are safe, Orange/Red need review
 6. **Click "Clean Selected Items"** to free up space
 
-That's it! The app will show you how much space you've freed.
+That's it! The app will show you how much space you've freed.  
+
+<img width="1117" height="871" alt="makespace-ui" src="https://github.com/user-attachments/assets/beb20826-43a5-4824-a7c0-b29affbaae20" />
 
 ---
 
