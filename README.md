@@ -93,7 +93,7 @@ This is expected - browsers recreate cache as you use them
 
 ## Developer & Contact
 
-**Developed by**: Nikša Đerek
+**Developed by**: Nikša Đerek  
 **Contact**: niksa.derek@gmail.com
 
 ---
