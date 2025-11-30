@@ -82,6 +82,9 @@ This is normal - close all programs and try again
 ### Browser Cache Keeps Coming Back
 This is expected - browsers recreate cache as you use them
 
+### Temp files Keep Coming Back
+This is expected - window recreate temporal files
+
 ---
 
 ## System Requirements
@@ -105,4 +108,4 @@ This is expected - browsers recreate cache as you use them
 
 ---
 
-**MakeSpace** - Simple, safe disk cleanup for Windows.
+**MakeSpace** - Simple disk cleanup for Windows.
