@@ -1,7 +1,7 @@
 # MakeSpace
 
 <p align="center">
-  <img src="resources/icon.ico" alt="MakeSpace Icon" width="96" height="96">
+  <img src="icon.ico" alt="MakeSpace Icon" width="96" height="96">
 </p>
 
 **Free up disk space safely and easily on Windows.**
