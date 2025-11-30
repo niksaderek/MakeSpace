@@ -1,4 +1,5 @@
 # MakeSpace
+<img width="1024" height="576" alt="makespace" src="https://github.com/user-attachments/assets/807abe77-6c5b-48ad-8d22-e0822788d8b7" />
 
 **Free up disk space safely and easily on Windows.**
 
