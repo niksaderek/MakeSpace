@@ -1,5 +1,9 @@
 # MakeSpace
 
+<p align="center">
+  <img src="resources/icons8-clean-96.ico" alt="MakeSpace Icon" width="96" height="96">
+</p>
+
 **Free up disk space safely and easily on Windows.**
 
 ---
