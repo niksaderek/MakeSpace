@@ -83,7 +83,7 @@ This is normal - close all programs and try again
 This is expected - browsers recreate cache as you use them
 
 ### Temp files Keep Coming Back
-This is expected - window recreate temporal files
+This is expected - window recreates temporal files
 
 ---
 
