@@ -24,7 +24,10 @@ MakeSpace helps you reclaim valuable storage space by safely removing temporary 
 
 That's it! The app will show you how much space you've freed.  
 
-<img width="800" height="600" alt="makespace-ui" src="https://github.com/user-attachments/assets/beb20826-43a5-4824-a7c0-b29affbaae20" />
+<p align="center">
+  <img width="800" height="600" alt="makespace-ui"
+       src="https://github.com/user-attachments/assets/beb20826-43a5-4824-a7c0-b29affbaae20">
+</p>
 
 ---
 
